@@ -1,0 +1,30 @@
+h1{
+    color:darkblue;
+}
+
+body{
+    background-color:#B0E0E6 ;
+    border:solid;
+    color:darkblue;
+}
+.header{
+    /* background-color: powderblue; */
+    display:flex;
+    justify-content: center;
+    border:solid;
+    color:darkblue;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border:solid;
+    color:darkblue;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    border:solid;
+    color:darkblue;
+
+}
